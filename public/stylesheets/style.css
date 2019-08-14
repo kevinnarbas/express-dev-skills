@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  color: #00B7FF;
+}
+
+a:hover {
+  color: rebeccapurple;
+  font-weight: 600;
+}
+
+.delete-form {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.delete-form button{
+  background-color: #00B7FF;
+  border-radius:5px;
+  
+}
+
+.delete-form button:hover {
+  background-color: rebeccapurple;
+}
